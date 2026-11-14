@@ -1,0 +1,23 @@
+{
+ "built_utc": "2026-11-14 18:16Z",
+ "box_to": "2026-11-13",
+ "pool_file": "s1_pool_1147449_2026-10-26.xlsx",
+ "pool_date": "2026-10-26",
+ "injuries_updated": "2026-11-14T17:55Z",
+ "props_games": 0,
+ "min_gp_season": 3,
+ "n_pool": 515,
+ "n_proj": 260,
+ "n_frozen_nights": 19,
+ "n_slates": 24,
+ "upside_boost": 6.0,
+ "injuries_pulled": "2026-11-14T18:08Z",
+ "missing_history": [],
+ "teams_no_role": {
+  "player_games": 5,
+  "players": [
+   "Cam Christie"
+  ],
+  "fp": 12.0
+ }
+}
